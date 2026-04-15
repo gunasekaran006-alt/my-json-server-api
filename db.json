@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "id": "3025",
+      "username": "Tester",
+      "email": "Guna@gmail.com",
+      "status": "Absent"
+    },
+
+    {
+      "id": "3026",
+      "username": "Sekar",
+      "email": "sekaran@mail.com",
+      "status": "Present"      
+    }
+  ]
+}
